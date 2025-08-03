@@ -2,6 +2,20 @@
 
 A performant and interactive React blog app that demonstrates atomic state management using context and custom hooks. Users can add, search, and clear posts, toggle a fake dark mode, and import posts from a large archive. This project is designed to showcase advanced React patterns, including context providers, memoization, and optimization techniques.
 
+
+<img width="1914" height="902" alt="image" src="https://github.com/user-attachments/assets/174d9a96-64db-4347-b22f-17518d5b87a4" />
+
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/1a8adf9f-de2e-4711-9672-b366ef26e6fe" />
+
+<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/b81a75f6-0a02-49cb-9dde-c696d8220a9d" />
+
+<img width="1916" height="901" alt="image" src="https://github.com/user-attachments/assets/1ef0b55b-0d4a-47c3-a1aa-3e7b436cb33c" />
+
+<img width="1917" height="905" alt="image" src="https://github.com/user-attachments/assets/1c848243-d78d-4698-b5ed-5d3339fe2286" />
+
+<img width="1916" height="902" alt="image" src="https://github.com/user-attachments/assets/03909a6b-571f-4b3e-96f0-9efed114221f" />
+
+
 ---
 
 ## Features
